@@ -1,3 +1,5 @@
 print('test')
 print('test2')
 print('Aurore')
+age=input('age: ')
+print(age)
