@@ -1,3 +1,5 @@
 print('test')
 print('test2')
 print('BonjouuurEEEE')
+a = input("dis quelque chose stp\n")
+print(a)
