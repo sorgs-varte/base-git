@@ -1,3 +1,4 @@
 print('test')
 print('test2')
-print('lilou')
+a=input('ton age :')
+print(a)
